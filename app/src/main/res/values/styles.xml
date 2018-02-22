@@ -1,0 +1,95 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#FDFEFE</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FF9800</item>
+
+    </style>
+
+
+    /** atributes for player A
+
+    <style name="PlayerA">
+        <item name="android:padding">@dimen/padding4</item>
+        <item name="android:text">@string/player_1</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/textSize18</item>
+
+    </style>
+
+
+    /** atributes for player B
+
+    <style name="PlayerB">
+        <item name="android:padding">@dimen/padding4</item>
+        <item name="android:text">@string/player_2</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/textSize18</item>
+
+    </style>
+
+
+    /** atributes for score player A
+
+    <style name="Score1">
+        <item name="android:padding">@dimen/padding4</item>
+        <item name="android:text">0</item>
+        <item name="android:textColor">#F8FB48</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/textSize40</item>
+
+    </style>
+
+
+    /** atributes for score player B
+
+    <style name="Score2">
+        <item name="android:padding">@dimen/padding4</item>
+        <item name="android:text">0</item>
+        <item name="android:textColor">#F8FB48</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/textSize40</item>
+
+    </style>
+
+
+    /** atributes for 3 points for each player
+
+    <style name="Points3">
+        <item name="android:layout_marginLeft">@dimen/layout_marging_left24</item>
+        <item name="android:layout_marginRight">@dimen/layout_marging_right24</item>
+        <item name="android:layout_marginTop">@dimen/layout_marging_top8</item>
+        <item name="android:text">@string/three_points</item>
+
+    </style>
+
+
+    /** atributes for 2 points for each player
+
+    <style name="Points2">
+        <item name="android:layout_marginLeft">@dimen/layout_marging_left24</item>
+        <item name="android:layout_marginRight">@dimen/layout_marging_right24</item>
+        <item name="android:layout_marginTop">@dimen/layout_marging_top8</item>
+        <item name="android:text">@string/two_points</item>
+
+    </style>
+
+
+    /** atributes for 1 point for each player
+
+    <style name="Points1">
+        <item name="android:layout_marginLeft">@dimen/layout_marging_left24</item>
+        <item name="android:layout_marginRight">@dimen/layout_marging_right24</item>
+        <item name="android:layout_marginTop">@dimen/layout_marging_top8</item>
+        <item name="android:text">@string/free_throw</item>
+
+    </style>
+
+
+</resources>
+
+

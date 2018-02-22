@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <dimen name="layout_height140">140dp</dimen>
+
+    <dimen name="layout_width3">3dp</dimen>
+    <dimen name="layout_width0">0dp</dimen>
+
+    <dimen name="layout_marging_left24">24dp</dimen>
+    <dimen name="layout_marging_right24">24dp</dimen>
+    <dimen name="layout_marging_top16">16dp</dimen>
+    <dimen name="layout_marging_top8">8dp</dimen>
+    <dimen name="layout_marging_bottom90">90dp</dimen>
+    <dimen name="layout_marging_bottom24">24dp</dimen>
+
+    <dimen name="padding4">4dp</dimen>
+
+    <dimen name="textSize40">40sp</dimen>
+    <dimen name="textSize18">18sp</dimen>
+
+</resources>
